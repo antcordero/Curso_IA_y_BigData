@@ -2,9 +2,9 @@
 
 ## Sistemas de Big Data y Big Data Aplicado
 
+- [Teoría y ejercicios](https://juanarrow.github.io/BigData/sesiones/sesion-01.html)
 - Sesión 00 - Introducción: Python, Numpy, Pandas
 - Sesión 01 - Presentación + Matemática discreta
-  - [Teoría y ejercicios](https://juanarrow.github.io/BigData/sesiones/sesion-01.html)
 
 ## Inteligencia Artificial
 
