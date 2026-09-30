@@ -12,3 +12,5 @@
 - Tema 2 - Programación en Python
 
 ## Material extra
+
+- [Enlaces: Curso Python - Guía Numpy - Guía Pandas](https://github.com/antcordero/Curso_IA_y_BigData/blob/main/Big_Data/Sesion_00/enlaces.md)
