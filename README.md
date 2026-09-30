@@ -1,8 +1,6 @@
 # Apuntes de IA y Big Data
 
-### C.P.I.F.P. Alan Turing · Curso 2026/27
-
-Repositorio de apuntes, actividades y recursos de las asignaturas de **Big Data** e **Inteligencia Artificial**.
+> C.P.I.F.P. Alan Turing · Curso 2026/27 <br> Repositorio de apuntes, actividades y recursos de las asignaturas de **Big Data** e **Inteligencia Artificial**.
 
 ## Sistemas de Big Data y Big Data Aplicado
 
