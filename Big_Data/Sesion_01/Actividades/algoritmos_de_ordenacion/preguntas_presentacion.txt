@@ -1,0 +1,19 @@
+bubble sort: Si quisiéramos ordenar una lista de elementos en orden descendente (de mayor a menor) en lugar de ascendente, qué cambio exacto tendríamos que hacer en el código?
+
+heap sort: cómo se ordenaría las entradas de datos si todos tienen la misma prioridad?
+
+timsort: en código cómo sería el proceso que ejecuta este algoritmo? / de parte de qué sistema sería óptimo este algoritmo para bigData?
+
+merge sort: cómo se podría optimizar el proceso para la ordenación?
+
+insertion sort: en qué situaciones o para qué tipo de proyectos se sigue recomendando usar insertion sort hoy en día?
+
+selection sort: cómo sería el funcionamiento a nivel de código? / cómo se diferenciar mejor este algoritmo del insertion sort? y a nivel de código, uso de memoria y diferentes usos?
+
+gnome sort: qué usos tendría en comparación a bubble sort y al insertion sort? se podría paralelizar y en ese caso cómo sería el proceso y cuánto sería el gasto de recursos?
+
+cocktail sort: aunque esté ordenado siempre empieza de extremo a extremo?
+
+quick sort: qué estrategias existen para elegir un buen pivote y evitar el peor caso de O(n2)?
+
+external merge sort: que criterios sigue para elegir cuando ordenar y no elegir un tipo de memoria u otro?
