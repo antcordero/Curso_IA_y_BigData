@@ -6,7 +6,7 @@
 - [Curso de fundamentos de Python en YouTube](https://youtu.be/Kp4Mvapo5kc)
 - [Curso intermedio de Python en YouTube](https://youtu.be/TbcEqkabAWU)
 
-- [Ejemplos de Python](https://colab.research.google.com/github/juanarrow/BigData-notebooks/blob/main/ejemplos-python.ipynb)
+- [Ejemplos de Python (Google Colab)](https://colab.research.google.com/github/juanarrow/BigData-notebooks/blob/main/ejemplos-python.ipynb)
 
 ## Google Colab
 
